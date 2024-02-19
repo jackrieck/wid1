@@ -39,6 +39,6 @@ contract SolanaWalletMgr {
         );
 
         // record user has done action
-        nullifierHashes[nullifierHash] = true;        
+        nullifierHashes[nullifierHash] = true;
     }
 }
